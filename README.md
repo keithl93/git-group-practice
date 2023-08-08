@@ -11,7 +11,7 @@ hello world hello earth hello planet
 ### Members:
 
 - Rebekah
-- Sherilyn
+- Sherilyn Koshy
 - Keith
 - Natalie
 
