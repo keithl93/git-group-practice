@@ -1,3 +1,6 @@
+# git-group-practic
+
+Here's some random text to change this file.
 # git-group-practice
 
 hello world hello earth hello planet
